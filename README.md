@@ -1,17 +1,19 @@
-### Web Developer, Student at Lambda School
+### Software Engineer
 
 ## About Me
 
-I'm Web Developer currently enrolled at Lambda School. Before diving into web dev, I honed and leveraged data skills in a variety of roles. I love to automate workflows for both myself and colleagues. I favor exploration over exploitation. I'm always looking for a better way to do things, but can work quickly and effectively when time is critical.
+There's not enough time to learn everything I want to learn, so trying my best to minimize cognitive loads and maximize problems solved
 
 ## Languages and Proficiencies
 
+- Java
+- Spring
+- Typescript
 - Javascript
-- Node.js, express
+- Node.js
 - React
-- knex.js
+- Angular
 - SQL
-- PostgreSQL
 - Python
 
 <!--
