@@ -2,7 +2,7 @@
 
 ## About Me
 
-There's not enough time to learn everything I want to learn, so trying my best to minimize cognitive loads and maximize problems solved
+There's not enough time to learn everything I want to learn. Trying my best to minimize cognitive loads and maximize problems solved
 
 ## Languages and Proficiencies
 
