@@ -1,21 +1,3 @@
-### Software Engineer
-
-## About Me
-
-There's not enough time to learn everything I want to learn. Trying my best to minimize cognitive loads and maximize problems solved
-
-## Languages and Proficiencies
-
-- Java
-- Spring
-- Typescript
-- Javascript
-- Node.js
-- React
-- Angular
-- SQL
-- Python
-
 <!--
 **nwestallen/nwestallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
